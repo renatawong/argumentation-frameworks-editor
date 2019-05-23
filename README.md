@@ -17,3 +17,5 @@ calculation of unidirectional and bidirectional framework splitting.
 
 For unidirectional splitting: calculation of grounded, preferred and stable semantics.
 For bidirectional splitting: calculation of stable semantics. 
+
+<a href="https://zenodo.org/badge/latestdoi/188187401"><img src="https://zenodo.org/badge/188187401.svg" alt="DOI"></a>
