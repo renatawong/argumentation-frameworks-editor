@@ -22,6 +22,6 @@ Experimental evaluation of unidirectional splitting conducted on an earlier vers
 
 Experimental evaluation of bidirectional splitting was based on the present, 2nd, version of the application. The results were published in "An Implementation, Empirical Evaluation and Proposed Improvement for Bidirectional Splitting Method for Argumentation Framework Under Stable Semantics" by R. Wong (International Journal of Artificial Intelligence and Applications, 2018, doi: 10.5121/ijaia.2018.9402).
 
-Copyright@ Renata Wong
+Author: Renata Wong
 
 DOI for this application: <a href="https://zenodo.org/badge/latestdoi/188187401"><img src="https://zenodo.org/badge/188187401.svg" alt="DOI"></a>
