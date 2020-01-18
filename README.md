@@ -24,4 +24,4 @@ Experimental evaluation of bidirectional splitting was based on the present, 2nd
 
 Author: Renata Wong
 
-DOI for this application: <a href="https://zenodo.org/badge/latestdoi/188187401"><img src="https://zenodo.org/badge/188187401.svg" alt="DOI"></a>
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3611692.svg)](https://doi.org/10.5281/zenodo.3611692)
