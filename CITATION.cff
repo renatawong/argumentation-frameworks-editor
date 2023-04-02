@@ -4,7 +4,7 @@ authors:
   - family-names: Wong
     given-names: Renata
     orcid: https://orcid.org/0000-0001-5468-0716
-title: "Argumentation frameworks editor"
-version: 2.0.0
-doi: 10.5281/zenodo.3192464
-date-released: 2019
+title: "AFE argumentation frameworks editor"
+version: 2.0.1
+doi: 10.5281/zenodo.3192463
+date-released: 2023-04-02
