@@ -1,4 +1,4 @@
-# arg-fram-editor
+# Argumentation frameworks editor
 
 The editor can be found in the folder named "dist". The main file is a .jar executable. The application makes use of 3rd party libraries located in the folder "lib" and so the executable must be run from within the folder. 
 
